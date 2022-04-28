@@ -145,7 +145,7 @@ h4 {
   height: 400px;
 }
 .cover {
-  background-image: url(img/2.jpg);
+  background-image: url(2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 55px -100px;

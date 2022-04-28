@@ -147,13 +147,12 @@ h4 {
 .cover {
   background-image: url(2.jpg);
   background-size: cover;
-  background-repeat: no-repeat;
   background-position: 55px -100px;
   background-attachment: fixed;
   height: 400px;
 }
-.details .satu .satuu {
-  font-size: 10px;
+.details,.satu, .satuu {
+  font-size: 12px;
   text-transform: uppercase;
 }
 .satu {

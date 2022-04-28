@@ -147,6 +147,8 @@ h4 {
 .cover {
   background-image: url(2.jpg);
   background-size: cover;
+  width:300px;
+  height:400px;
   background-position: 55px -100px;
   background-attachment: fixed;
   height: 400px;
